@@ -1,3 +1,3 @@
 # pizza
-Cose Lives
-Non va un cazzo
+Cose!
+In questa repo l'elenco di tutte le pizze INFERNALI!!
